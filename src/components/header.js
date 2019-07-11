@@ -13,7 +13,6 @@ const Header = ({ siteTitle }) => (
       <Link to="/buy"><button>Courses</button></Link>
 
     </div>
-    Header
   </div>
 )
 
